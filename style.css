@@ -3,6 +3,7 @@ body
     background-image: url(Back2.jpg) ;
     background-position: center;
     background-size: cover;
+    background-attachment: fixed;
     margin: auto;
     width: 1800px;
 
